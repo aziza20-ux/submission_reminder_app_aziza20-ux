@@ -80,5 +80,5 @@ fi
 echo " NOW EXECUTING REMINDER APP"
 bash ./submission_reminder_app/app/reminder.sh
 EOF
-chmod +x ./submission_reminder_app/startup.sh echo "WOW YOU CAN NOW RUN YOUR
-REMINDER APP JUST TYPE ./submission_reminder_app/startup.sh AND SEE THE MAGIC"
+chmod +x ./submission_reminder_app/startup.sh
+echo "WOW YOU CAN NOW RUN YOUR REMINDER APP JUST TYPE ./startup.sh AND SEE THE MAGIC"
